@@ -8,3 +8,4 @@ deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(
 
 [MITM]
 hostname = %APPEND% api.revenuecat.com
+ip = 37.140.223.35
