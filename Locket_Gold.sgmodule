@@ -11,8 +11,4 @@ hostname = %APPEND% api.revenuecat.com
 [Ip]
 ip = 37.140.223.35
 ip_address = 37.140.223.190
-[Proxy]
-custom_ip_proxy = http, 37.140.223.190, 8080
-[Proxy_Ip_Address]
-proxy = 37.140.223.190
-port = 8080
+
